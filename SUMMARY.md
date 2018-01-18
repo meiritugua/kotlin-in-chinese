@@ -1,4 +1,4 @@
-
+* [Introduction](README.md)
 * [准备开始](GettingStarted/README.md) 完成
    * [基本语法](GettingStarted/Basic-Syntax.md) 
    * [习惯用语](GettingStarted/Idioms.md) 
