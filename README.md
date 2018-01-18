@@ -1,6 +1,8 @@
 
 [![Analytics](https://ga-beacon.appspot.com/UA-80536214-1/readme)](https://github.com/huanglizhuo/kotlin-in-chinese)
 
+> 本开源书 forked from [kotlin 官方文档](https://github.com/huanglizhuo/kotlin-in-chinese)，作者为 [huanglizhuo](https://github.com/huanglizhuo)，欢迎大家 star 原作者的 [repo](https://github.com/huanglizhuo/kotlin-in-chinese)，以便获得最新更新，谢谢！
+
 2017.5.17
 
 Android Announces Support for Kotlin
